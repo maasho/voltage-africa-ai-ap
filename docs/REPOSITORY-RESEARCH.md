@@ -46,3 +46,7 @@ npx skills add vercel-labs/agent-skills --skill web-design-guidelines
 ```
 
 Die Auswahl ergänzt die bestehenden projektspezifischen Skills; sie belegt keine Marktführerschaft oder garantierte Wirkung.
+
+## Nachtrag: Installation
+
+Die ausgewählten Pakete wurden inzwischen installiert. Der aktuelle Umfang und die Herkunftsnachweise stehen in [INSTALLED-SKILLS.md](INSTALLED-SKILLS.md); die obigen Nicht-installiert-Angaben beschreiben den früheren Recherchezeitpunkt.

@@ -115,7 +115,8 @@
       "primary_skill": "voltage-growth",
       "supporting_skills": [
         "voltage-evidence",
-        "voltage-learning"
+        "voltage-learning",
+        "cro"
       ],
       "status": "initial_unproven"
     },
@@ -133,7 +134,9 @@
       "primary_skill": "voltage-quality",
       "supporting_skills": [
         "voltage-evidence",
-        "voltage-learning"
+        "voltage-learning",
+        "webapp-testing",
+        "web-design-guidelines"
       ],
       "status": "initial_unproven"
     },
@@ -160,7 +163,8 @@
       "primary_skill": "voltage-accessibility",
       "supporting_skills": [
         "voltage-evidence",
-        "voltage-learning"
+        "voltage-learning",
+        "web-design-guidelines"
       ],
       "status": "initial_unproven"
     },
@@ -169,7 +173,8 @@
       "primary_skill": "voltage-appsec",
       "supporting_skills": [
         "voltage-evidence",
-        "voltage-learning"
+        "voltage-learning",
+        "supabase-postgres-best-practices"
       ],
       "status": "initial_unproven"
     },
@@ -187,7 +192,10 @@
       "primary_skill": "voltage-matching",
       "supporting_skills": [
         "voltage-evidence",
-        "voltage-learning"
+        "voltage-learning",
+        "cro",
+        "signup",
+        "onboarding"
       ],
       "status": "initial_unproven"
     },

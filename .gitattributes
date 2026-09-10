@@ -1,0 +1,7 @@
+# Preserve imported skill bytes for provenance checks.
+/.agents/skills/cro/** -text
+/.agents/skills/signup/** -text
+/.agents/skills/onboarding/** -text
+/.agents/skills/web-design-guidelines/** -text
+/.agents/skills/webapp-testing/** -text
+/.agents/skills/supabase-postgres-best-practices/** -text

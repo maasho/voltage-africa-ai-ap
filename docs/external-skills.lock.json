@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "skills": [
+    {
+      "name": "cro",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "path": "skills/cro",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "evals/evals.json": "62f3003602836e2b49d797ca582e7703629a6b07b131eb77b51b2bb39fe65775",
+        "LICENSE": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "references/experiments.md": "bbcc356c0af36cfaa4556bf9e929deac30c65cafb37f909d7c51d4777fe254ca",
+        "references/form.md": "e3115b0fdfb3968915b8e3acdc32a6e5f1d2c6a335ebbed25bee9b601ec573d7",
+        "SKILL.md": "199016bec3b44bc6a7507b111b6028f6550cc852cd54c7d0df789f15d6f814c4"
+      }
+    },
+    {
+      "name": "signup",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "path": "skills/signup",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "evals/evals.json": "ce012fff8e559b5f622826826e7b137c650c96f8193a7e10add60f75c2417edd",
+        "LICENSE": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "SKILL.md": "9395aabae64891ebdac5f31d17c83b9d47546dc0c9b22654c7b89e9b04da7cf6"
+      }
+    },
+    {
+      "name": "onboarding",
+      "repository": "coreyhaines31/marketingskills",
+      "commit": "5b2c0007766c6a1cf1d53fd8fc73e979e0821022",
+      "path": "skills/onboarding",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "evals/evals.json": "6086b1c34a6f171800bf32bf569ff08d7385c3c36637ce9f1a4cc2527bb36b47",
+        "LICENSE": "b70d71e24e40fce5da8f4b6f9cd862096a048e433db7f3c8cac5e348e6d34591",
+        "references/activation-models.md": "a13e82d8e3ebf810a0f0fb51fe91bbe349d8175baee5a97a85934fa20f63a8f7",
+        "references/experiments.md": "b4caad0b50ca9483a6a79846d0b24a7bab62850b45a3f2232d73f78629468932",
+        "references/minimum-path-to-value.md": "c2b7c71b8436a1456888a26b9c8892c33cd9e1b1bf758f6fd7282c00f87dcdc3",
+        "SKILL.md": "ca219e0ba8f931888e2a634624ab927206f8ef26aeca2250399c3c48da0341e0"
+      }
+    },
+    {
+      "name": "web-design-guidelines",
+      "repository": "vercel-labs/agent-skills",
+      "commit": "063bee94c3f4df8453406c830b0a7df0f2860278",
+      "path": "skills/web-design-guidelines",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "LICENSE-NOTICE.md": "96d9480b230981a7ef787ac3c6a956028fa4cf5424315f744aad0ae9de6ef174",
+        "SKILL.md": "f4647ca866a3accf763777f83e7682954f0187cd6bea7eea0399796652414e8f",
+        "UPSTREAM-README.md": "7c02f64b08fc6c4eef03c01d64f3e2ed478193ccfcbd14edba379abe23304651"
+      },
+      "remote_dependency": {
+        "repository": "vercel-labs/web-interface-guidelines",
+        "path": "command.md",
+        "reviewed_commit": "e3d624baaf29dc1fc645aff3e38f03e564d2d6b1",
+        "policy": "Upstream skill fetches current guidelines when used; record the retrieved revision in each review."
+      }
+    },
+    {
+      "name": "webapp-testing",
+      "repository": "anthropics/skills",
+      "commit": "41bbe19d1a1a7eaab5e7bb9050a417e5c6cffc8f",
+      "path": "skills/webapp-testing",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "examples/console_logging.py": "ea46877289acb82da7e7ce59d0bc37c8977cd57e2a006d0c88d7a1c625bf95da",
+        "examples/element_discovery.py": "d63c89604a22f8845d724e95dda45db49b1bf57c25ce0a83afbb7b8da3d402f0",
+        "examples/static_html_automation.py": "9d533aafb875ee3ab8b8ebf8f5b9003ac8d999da3d09b285cce252e623140064",
+        "LICENSE.txt": "bc6b3af2f331cbc7fb0da1344efb2cbe5877a31498b4d70dbc7000f3405a1362",
+        "scripts/with_server.py": "b0dcf4918935b795f4eda9821579b9902119235ff4447f687a30286e7d0925fd",
+        "SKILL.md": "51b7349e77ec63b7744a6f63647e7566a0b4d2e301121cc10e8c2113af6556a2"
+      }
+    },
+    {
+      "name": "supabase-postgres-best-practices",
+      "repository": "supabase/agent-skills",
+      "commit": "8331f910845103c08d51f6ca1d86ebb7d1f745e3",
+      "path": "skills/supabase-postgres-best-practices",
+      "installed_at": "2026-09-10",
+      "scope": "repository",
+      "local_modifications": [],
+      "files": {
+        "CHANGELOG.md": "751ad110037c85d400018c9894716a04fa46357ff55c22b1169b280752e19e88",
+        "LICENSE": "b65e575eb4f04a13c187d64e958321298e2ab84d67aa8428819f362056ba292c",
+        "references/_contributing.md": "191e039e7d94764e6073410b513b559f9a594e0fdf0252a30c2a2986df2ab3bc",
+        "references/_sections.md": "c9e992612b422c7122de0b7542ebc2450db283edaab08cfe86c6d657fcccccd5",
+        "references/_template.md": "6299954250f212caabe339d752c3e5313a8e07d1a182a4e4b425baee91df1bd2",
+        "references/advanced-full-text-search.md": "40c2606bbb4c4dce31308f201b24cc7f58c7df05b1d9c6856fe2b888d3b7cf28",
+        "references/advanced-jsonb-indexing.md": "24cacf6a8bc35901dd566d24502ce8e57f810a5c196b897e61d52726e521d106",
+        "references/conn-idle-timeout.md": "630588902c00fcec59a5988cc5d042f76dcf2c923a535abfd8c47dca205eaed5",
+        "references/conn-limits.md": "11b2a67a7c7679cbbc5d807bbb17e69c98484a581d0c8b929c03408f412b81b2",
+        "references/conn-pooling.md": "88cf086bf98ba865d2e9d0579974e1366b14157619d6a93e7da77be91084e4a5",
+        "references/conn-prepared-statements.md": "174e9332fe3dda5c99b2b00159fb1915ae36c00bab3a7882c14e73e4344e946e",
+        "references/data-batch-inserts.md": "531933b82d6a622d0fae29e0ea80be6fe5d78655adf2804c271ea84a1930de37",
+        "references/data-n-plus-one.md": "21a44905e5b16a42741892ec34bb1bfef124d049b140a76934a9acd0f46f5fc2",
+        "references/data-pagination.md": "73c9fa10a3d439bedea0e11b640bd25bf30dd50f0d9006cf85baf7c3151543fa",
+        "references/data-upsert.md": "2612af83b20a2701dde30ef1f8d7efd26b7e9eef84717226b8f038a2d2150ff7",
+        "references/lock-advisory.md": "c88d259dbf81c3771438f59a165f7eab8acd09999dd370bdf807521c73f35aab",
+        "references/lock-deadlock-prevention.md": "09aee46f51d7178c8e55fe056cd5a94a64ba2c122fe418e6900cd99f297b2347",
+        "references/lock-short-transactions.md": "5aa7f61095916986d39644b446cdbcd2bacca7ef698a3bb50b3f82dd60207602",
+        "references/lock-skip-locked.md": "6c45077f430f29cd9cd8f448c94d578e827e7bd023fcdaf717a756acb116fa4b",
+        "references/monitor-explain-analyze.md": "4cb67ffbf8e57f2e5b380b0beb4242528b513723ce314a2c2ffcf083bd4203d7",
+        "references/monitor-pg-stat-statements.md": "89dca99d4e894fcbdcac136be7ad9fbc03d1342904f065c1b198dc9cf495f098",
+        "references/monitor-vacuum-analyze.md": "2892272011710eb49b3f185ec12f15ce9ce4c365792c672f6e2a9c90da426a1a",
+        "references/query-composite-indexes.md": "73e42424e671f0266e74fdb220db3196790f69fb43e2b19c7b9483eb4971b554",
+        "references/query-covering-indexes.md": "daf2a7f0477fb7357b62b5fb5b185b1995a77a186347e45cb780e25e7a7589b6",
+        "references/query-index-types.md": "472a74f22c2df203bd0154999b3a5a0187cca2ab3d9a3978e305bb7c32f1a282",
+        "references/query-missing-indexes.md": "91ad8b0ff4365704b4830a7f077c6f140f7140fd5d3ce5cd0b92b160cf9e25f1",
+        "references/query-partial-indexes.md": "6448982bc8558c6555284958edc331b29239c6a0130e6b4501dd6d4da607a6dd",
+        "references/schema-constraints.md": "90e8efda3e9e81095e642911ad4aae2809d160f29414338fa997253238f510f8",
+        "references/schema-data-types.md": "e01b58c14c7f3f65d8ead580b9a4fcf70b83baaab0f9a5f83c569c9fd113e8c8",
+        "references/schema-foreign-key-indexes.md": "7587713d12a65a212365459b3d39e4717d8a79e4073b10bd62f1054d8192c0dd",
+        "references/schema-lowercase-identifiers.md": "4bc80f70865f2390872591f326c8a6be6456a0aeb5a7e5a2475d7cd9d43059ab",
+        "references/schema-partitioning.md": "541e13fbeaf4bb1485c9059d4c9417dbdb766cf16f4237cd63a04ada7ec45b90",
+        "references/schema-primary-keys.md": "3c8beabef82066f9a0838b926da0885117fd2d9a263aaf84cb5ca9e5f0d400e9",
+        "references/security-privileges.md": "095909274a4fb43df785d7144cf674eeb40284d2d45628f14af4108737b93663",
+        "references/security-rls-basics.md": "e04dd1a3a382aafdaaa73fe9f7976352acdde6e90c2a2470d281b94d4f44b096",
+        "references/security-rls-performance.md": "2e1faeca7d5746e246b1c78f9492fe2a9cfa41c4d7fa1e23c402d58fa18ea014",
+        "SKILL.md": "ad65e776f45e761bafc609d3f506c77c1032225aa65e0c4c02f241b8071e5855"
+      }
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 Agenten-Team für [Voltage Africa](https://www.voltage-africa.com/): lokale Dienstleistungsvermittlung, Technikerprofile, Scouts, Vertrauen und mehrsprachige Sichtbarkeit.
 
-23 Rollen mit 25 Skills: 15 übertragene Fachrollen, fünf zusätzliche Agency-Agents-Rollen und drei speziell geschriebene Rollen für Vermittlung, Lokalisierung und Vertrauensprüfung. Alle folgen dem [Senior-Standard](docs/SENIOR-STANDARD.md) mit dem angestrebten Urteilsniveau von 20 Jahren Berufserfahrung; dies ist keine reale Biografie.
+23 Rollen mit 31 Skills (25 eigene und sechs externe): 15 übertragene Fachrollen, fünf zusätzliche Agency-Agents-Rollen und drei speziell geschriebene Rollen für Vermittlung, Lokalisierung und Vertrauensprüfung. Alle folgen dem [Senior-Standard](docs/SENIOR-STANDARD.md) mit dem angestrebten Urteilsniveau von 20 Jahren Berufserfahrung; dies ist keine reale Biografie.
 
 ## Einstieg
 
@@ -20,3 +20,11 @@ Rollen, Skills und Lernprozess sind eingerichtet; automatische Ausführung, Webs
 ## Herkunft
 
 Grundstruktur aus maasho/bess-market-ai-ops, fachlich für Voltage Africa überarbeitet. 20 Rollen basieren auf [Agency Agents](https://github.com/msitarzewski/agency-agents), MIT-Lizenz unter marketing-team/agents/LICENSE. Details in [Herkunft](docs/PROVENANCE.md).
+
+## Externe Skills installiert
+
+Aktueller Installationsstand: [Pakete und Zuordnung](docs/INSTALLED-SKILLS.md). Der frühere Recherchebericht beschreibt den Auswahlstand vor der Installation.
+
+## Erster Arbeitslauf
+
+Der [Voltage-Pilot vom 2026-09-10](marketing-team/reports/pilot/2026-09-10-summary.md) enthält die ersten SEO-, Vertrauens- und Anfrageweg-Befunde. Websiteänderungen und Backendtests wurden nicht ausgeführt.

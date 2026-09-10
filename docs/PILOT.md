@@ -1,6 +1,6 @@
 # Pilot: vom lokalen Bedarf zur passenden Fachkraft
 
-Status: vorbereitet, nicht ausgeführt.
+Status: erster begrenzter Read-only-Lauf am 2026-09-10 ausgeführt. Ergebnisse und noch offene Live-/Backend-Nachweise stehen im [Pilotbericht](../marketing-team/reports/pilot/2026-09-10-summary.md). Der folgende Ablauf bleibt die Grundlage für weitere Prüfungen.
 
 Startpunkt: bestehende Solarinstallateur-Seite für Nairobi; dies ist ein Prüfkandidat, keine Zusage verfügbarer Anbieter.
 
