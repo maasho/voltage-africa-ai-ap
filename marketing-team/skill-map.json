@@ -1,0 +1,213 @@
+{
+  "version": 1,
+  "standard": "docs/SENIOR-STANDARD.md",
+  "roles": [
+    {
+      "role": "marketing-team/agents/marketing-seo-specialist.md",
+      "primary_skill": "voltage-local-seo",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-content-creator.md",
+      "primary_skill": "voltage-service-guides",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-linkedin-content-creator.md",
+      "primary_skill": "voltage-linkedin",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-ai-citation-strategist.md",
+      "primary_skill": "voltage-ai-visibility",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/product-trend-researcher.md",
+      "primary_skill": "voltage-country-research",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/support-analytics-reporter.md",
+      "primary_skill": "voltage-marketplace-analytics",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-aeo-foundations.md",
+      "primary_skill": "voltage-readable-pages",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/paid-media-ppc-strategist.md",
+      "primary_skill": "voltage-local-ads",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/paid-media-creative-strategist.md",
+      "primary_skill": "voltage-ad-creative",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-email-strategist.md",
+      "primary_skill": "voltage-lifecycle",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-pr-communications-manager.md",
+      "primary_skill": "voltage-pr",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/sales-outbound-strategist.md",
+      "primary_skill": "voltage-partner-research",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-growth-hacker.md",
+      "primary_skill": "voltage-growth",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/support-legal-compliance-checker.md",
+      "primary_skill": "voltage-compliance",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/testing-reality-checker.md",
+      "primary_skill": "voltage-quality",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/support-support-responder.md",
+      "primary_skill": "voltage-member-support",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/product-feedback-synthesizer.md",
+      "primary_skill": "voltage-user-research",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/testing-accessibility-auditor.md",
+      "primary_skill": "voltage-accessibility",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/security-appsec-engineer.md",
+      "primary_skill": "voltage-appsec",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/marketing-social-media-strategist.md",
+      "primary_skill": "voltage-community",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/voltage-marketplace-operator.md",
+      "primary_skill": "voltage-matching",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/voltage-localization-lead.md",
+      "primary_skill": "voltage-localization",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    },
+    {
+      "role": "marketing-team/agents/voltage-trust-review-lead.md",
+      "primary_skill": "voltage-trust",
+      "supporting_skills": [
+        "voltage-evidence",
+        "voltage-learning"
+      ],
+      "status": "initial_unproven"
+    }
+  ]
+}
