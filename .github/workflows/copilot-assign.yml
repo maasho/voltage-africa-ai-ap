@@ -1,0 +1,37 @@
+name: Copilot-Agenten-Zuweisung
+
+on:
+  issues:
+    types: [opened, labeled]
+
+permissions:
+  issues: write
+
+jobs:
+  setup-labels:
+    if: github.event.action == 'opened'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Standard-Labels idempotent anlegen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for l in agent:vermittlung agent:vertrauen agent:lokalisierung agent:qualitaet agent:seo agent:content agent:linkedin status:bereit; do
+            gh label create "$l" --force || true
+          done
+
+  assign-copilot:
+    if: github.event.action == 'labeled' && github.event.label.name == 'status:bereit'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Copilot-Agenten zuweisen
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/assignees -f "assignees[]=copilot"
+
+      - name: Start-Kommentar
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments -f body="✅ Copilot-Agent zugewiesen. Der Agent übernimmt die Rolle aus dem Issue-Body, folgt AGENTS.md und dem Primärskill, legt den Ergebnisbericht unter marketing-team/reports/ ab und erstellt einen Learning-Kandidaten nach marketing-team/templates/LEARNING.md. Review durch die Qualitätsrolle vor Übernahme."
